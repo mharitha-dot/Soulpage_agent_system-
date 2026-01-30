@@ -1,0 +1,17 @@
+Clone the repository:
+
+git clone https://github.com/mharitha-dot/Soulpage_agent_system-.git
+
+
+Install dependencies:
+
+pip install -r requirements.txt
+
+
+Run the multi-agent system:
+
+python task1_agents.py
+
+
+Output:
+The system executes a controller that triggers a Data Collector agent followed by an Analyst agent, and prints the final company intelligence summary in the terminal.
